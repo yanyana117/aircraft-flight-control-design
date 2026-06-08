@@ -1,0 +1,15 @@
+*.asv
+*.autosave
+*.m~
+*.mlx~
+.DS_Store
+
+figures/
+outputs/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+*.ppt
+*.pptx
+*.zip
