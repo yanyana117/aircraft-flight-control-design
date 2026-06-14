@@ -1,35 +1,11 @@
 %{
-- Xingran Huang
-- Aero 625 project
+SDR (LQR-style) digital regulator design for the F-16A lateral/directional
+linear model with first-order actuator dynamics. Computes the closed-loop
+eigenvalues, natural frequencies, damping ratios, controller gains and weighting
+matrices, and simulates the discrete closed-loop time histories (commands,
+states, and control variables).
 
-- Introduction From hw 4 problem 7:
-For the Project, implement parts 2a, 3, and the 4.1 specifications for the regulator problem only. Please
-refer to the project handout. The minimum items you are to provide are:
-(a) Closed-loop characteristics:
-    eigenvalues
-    eigenvectors
-    natural frequencies, damping ratios and time constants as applicable
-(b) Controller gains and the weighting matrices used to calculate them
-(c) Simulation time histories with the digital controller active, showing that you satisfied the specifications,
-and including:
-    Plots of all commands
-    Plots of all state variables
-    Plots of all control variables
-
-2. Methodology: For the same plant, design a discrete controller of each type listed below:
-a) SDR
-
-3. Actuators:
-All actuators are to be of the form with time constant 0.1 seconds,
-unless the actual value is available. Appropriate rate and position limits must be specified, and
-adhered to.
-
-4. Performance Specifications:
-These will be selected by you, unless indicated otherwise.
-4.1 Time domain specifications
-4.1.1 Step Input for controllers c, d, e
-
-By consider the lateral/directional F-16A Fight Falcon Linear Model
+Author: Xingran Huang
 %}
 
 clc

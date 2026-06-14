@@ -3,9 +3,8 @@
 MATLAB flight-control design project for an F-16A lateral/directional linear
 model with actuator dynamics and digital controller simulation.
 
-This repository is a cleaned portfolio version of an aircraft control project.
-It keeps the controller design scripts and helper routines while removing
-course handouts, grading sheets, temporary files, and unrelated homework.
+It contains the controller-design scripts and supporting routines for the
+F-16A lateral/directional model.
 
 ## Highlights
 

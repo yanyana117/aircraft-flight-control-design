@@ -1,6 +1,5 @@
 %{
 - Xingran Huang
-- Aero 625 project
 
 - PIF_NZSP_CRW controller
 - Sinusoidal Input?

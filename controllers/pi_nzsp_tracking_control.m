@@ -4,7 +4,6 @@ clear all
 clear table;
 %{
 - Xingran Huang
-- Aero 625 project
 - PI-NZSP
 %}
 

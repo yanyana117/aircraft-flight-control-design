@@ -1,6 +1,5 @@
 %{
 - Xingran Huang
-- Aero 625 project
 
 - PI_SDR controller
 - Sinusoidal Input?
