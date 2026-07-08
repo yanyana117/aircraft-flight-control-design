@@ -13,3 +13,4 @@ outputs/
 *.ppt
 *.pptx
 *.zip
+__pycache__/
